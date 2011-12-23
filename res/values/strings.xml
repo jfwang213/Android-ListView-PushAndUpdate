@@ -2,4 +2,9 @@
 <resources>
     <string name="hello">Hello World, PullUpdateListViewDemo!</string>
     <string name="app_name">PullUpdateListViewDemo</string>
+    
+    <string name="pull_to_refresh_pull_label">上拉更新</string>
+    <string name="pull_to_refresh_release_label">释放更新</string>
+    <string name="pull_to_refresh_refreshing_label">加载...</string>
+    <string name="pull_to_refresh_tap_label">点击更新</string>
 </resources>
